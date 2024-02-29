@@ -1,0 +1,23 @@
+**This is a profile template you can use and customize. See the LICENSE file for more info.**
+
+### Username
+ Welcome to my little profile! What follows is a quick summary about myself and what you can expect from repos I publish here.
+
+#### About
+Example info...
+
+#### My repos
+This is a list of currently active, official repos, created by me and freely available for your use.
+[Example-repo](https://github.com/username/example-repo) - Not a real link, just an example!
+
+#### My GPG key
+Info about your GPG key, where to find it, and how to use it...
+
+#### Software I use
+**OS:** What operating system(s) you use...
+**Editor:** Text editor you use...
+**Office suite:** Office suite...
+**Games:** You get it...
+
+#### Contact
+How you can be reached...
