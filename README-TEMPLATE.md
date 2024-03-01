@@ -8,7 +8,7 @@ Example info...
 
 #### 📚 My repos
 This is a list of currently active, official repos, created by me and freely available for your use.  
-[Example-repo](https://github.com/username/example-repo) - Not a real link, just an example!
+**[Example-repo](https://github.com/username/example-repo)** - Not a real link, just an example!
 
 #### 🔐 My GPG key
 Info about your GPG key, where to find it, and how to use it...
