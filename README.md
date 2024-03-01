@@ -13,7 +13,7 @@ From Feb 27, 2024 and onward, I have started signing all my commits, tags, and r
 
 While GPG can be quite confusing to set up and use, actually verifying a signature is fairly straightforward. To get started, you will need my public key, which is available at [keys.openpgp.org](https://keys.openpgp.org) via their web interface or using the command line. Simply search for my email address. Be sure the fingerprint matches `7647635565F349C740B589EEC2D7FEF79A7901B1`.
 
-To verify the key has the correct fingerprint first run `gpg --show-keys --with-fingerprint example-key.asc` replacing the example key with the name of the key you just downloaded. If it looks right, run `gpg --import example-key.asc`.
+To verify the key has the correct fingerprint first run `gpg --show-keys --with-fingerprint example-key.asc` in a terminal, replacing the example key with the name of the key you just downloaded. If it looks right, run `gpg --import example-key.asc`.
 
 Now you're ready to verify your download! Look for the .sig file for the package you downloaded, which is a digital signature file. Run `gpg --verify example-file.sig` replacing the example file with the name of the actual file. The result should say *Good signature from Soulstenance*. If it does, you're good to go. If it says *BAD signature*, it means the file was modified or otherwise corrupted in transit - **delete** the file and download it again. If you are still unable to verify it, please open an issue for that repo and I will be happy to help.
 
