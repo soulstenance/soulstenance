@@ -1,7 +1,6 @@
 **This is a profile template you can use and customize. See the LICENSE file for more info.**
 
-### Username
- Welcome to my little profile! What follows is a quick summary about myself and what you can expect from repos I publish here.
+Welcome to my profile! What follows is a quick summary about myself and what you can expect from repos I publish here.
 
 #### ℹ️ About
 Example info...
