@@ -1,4 +1,4 @@
-Welcome to my profile! What follows is a quick summary about myself and what you can expect from repos I publish here.
+Welcome to my profile! This is a quick summary about myself and what you can expect from repos I publish here.
 
 #### ℹ️ About
 I go by Soulstenance or Soul, anywhere on the internet. I'm a gamer, tech nerd, newbie coder/game dev, and last but certainly not least - a huge proponent of Linux and free and opensource software. While I personally prefer to use the GPL v3 or higher for my projects, other, more permissive opensource licenses have their place as well.
