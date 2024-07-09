@@ -6,7 +6,7 @@ I go by Soulstenance or Soul, anywhere on the internet. I'm a gamer, tech nerd, 
 #### 📚 My repos
 This is a list of currently active, official repos, created by me and freely available for your use.  
 **[Spgu](https://github.com/soulstenance/spgu)** - Also know as Soul's Pretty Good Updater (for Debian based systems)  
-**[Hashbrownies](https://github.com/soulstenance/hashbrownies)** - A simple tool for generating and scanning checksum files (WIP)
+**[Hashbrownies](https://github.com/soulstenance/hashbrownies)** - A simple tool for generating and scanning checksum files (WIP)  
 **[Gammaup](https://github.com/soulstenance/gammaup)** - Just a simple tool to boost your screen's display brightness when the brightness slider isn't enough
 
 #### 🔐 My GPG key
