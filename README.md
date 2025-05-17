@@ -7,6 +7,7 @@ I go by Soulstenance or Soul, anywhere on the internet. I'm a gamer, tech nerd, 
 This is a list of currently active, official repos, created by me and freely available for your use.  
 **[Spgu](https://github.com/soulstenance/spgu)** - Also know as Soul's Pretty Good Updater (for Debian based systems)  
 **[Gammaup](https://github.com/soulstenance/gammaup)** - Just a simple tool to boost your screen's display brightness when the brightness slider isn't enough  
+**[Kulr](https://github.com/soulstenance/kulr)** - A simple Python color library using ANSI escape sequences to spruce up your Python scripts with ease  
 **[Hashbrownies](https://github.com/soulstenance/hashbrownies)** - A simple tool for generating and scanning checksum files (ON HOLD)
 
 #### 🔐 My GPG key
