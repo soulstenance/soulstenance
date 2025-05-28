@@ -5,10 +5,10 @@ I go by Soulstenance or Soul, anywhere on the internet. I'm a gamer, tech nerd, 
 
 #### 📚 My repos
 This is a list of currently active, official repos, created by me and freely available for your use.  
-**[Spgu](/soulstenance/spgu)** - Also know as Soul's Pretty Good Updater (for Debian based systems)  
-**[Gammaup](/soulstenance/gammaup)** - Just a simple tool to boost your screen's display brightness when the brightness slider isn't enough  
-**[Kulr](/soulstenance/kulr)** - A simple Python color library using ANSI escape sequences to spruce up your Python scripts with ease  
-**[Hashbrownies](/soulstenance/hashbrownies)** - A simple tool for generating and scanning checksum files (ON HOLD)
+**[Spgu](../soulstenance/spgu)** - Also know as Soul's Pretty Good Updater (for Debian based systems)  
+**[Gammaup](../soulstenance/gammaup)** - Just a simple tool to boost your screen's display brightness when the brightness slider isn't enough  
+**[Kulr](../soulstenance/kulr)** - A simple Python color library using ANSI escape sequences to spruce up your Python scripts with ease  
+**[Hashbrownies](../soulstenance/hashbrownies)** - A simple tool for generating and scanning checksum files (ON HOLD)
 
 #### 🔐 My GPG key
 From Feb 27, 2024 and onward, I have started signing all my commits, tags, and releases on all my official repos with my official GPG signing key, also sometimes called a PGP key. This adds an extra level of authenticity to my projects and also gives you the peace of mind that when you download one of my projects, you are getting the exact version I intended for you to get.
