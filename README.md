@@ -29,4 +29,4 @@ Now you're ready to verify your download! Look for the .sig file for the package
 🎮 **Games:** I love dark fantasy RPG games as well as grand strategy and building/automation games. Some examples are Dark Souls, Elden Ring, Europa Universalis IV, Factorio and more. I particularly like to support Linux friendly and opensource games such as [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon).  
 
 #### 📞 Contact
-You can contact me privately at the listed ***email*** (visible to signed in users). I'm also available on ***Discord*** at the same username though this is not a private communication method! I use ***Signal*** as well though I'll only give out that info on a case by case basis, due to the phone number requirement. You can always send me secure private messages on any platform, using my ***GPG key***!
+You can contact me privately at the listed ***email*** (visible to signed in users). I'm also available on ***Discord*** at the same username though this is not a private communication method! You can always send me secure private messages on any platform, using my ***GPG key***!
